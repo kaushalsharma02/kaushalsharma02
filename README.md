@@ -117,7 +117,7 @@ I am continuously learning new technologies and exploring how **Data Science, Ma
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/kaushal-sharma02" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
